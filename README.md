@@ -1,7 +1,7 @@
  
 
 # hello-world
-Just another repository
+Just a new repository
 Something new! haha, some secret here!
 
 
